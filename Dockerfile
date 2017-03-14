@@ -1,4 +1,4 @@
-FROM registry.tstllc.net/llisk/tstllc-alpine-java8:latest
+FROM registry.tstllc.net/llisk/alpine-java8:latest
 
 ENV SCALA_VERSION=2.12.0-M5 \
     SCALA_HOME=/usr/share/scala
